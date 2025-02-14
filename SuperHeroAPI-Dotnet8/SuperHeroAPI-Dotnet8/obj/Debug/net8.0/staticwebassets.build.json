@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hcwplfkhQFC8i3DNmkKLCiPv9eAG5rWR+cRrucRBuJU=",
+  "Source": "SuperHeroAPI-Dotnet8",
+  "BasePath": "_content/SuperHeroAPI-Dotnet8",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
